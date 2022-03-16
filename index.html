@@ -22,27 +22,16 @@
                 Year:
                 <select class="year" v-model="yearInput">
                     <option disabled value ="">Select Year</option>
-                    <option >2022</option>
-                    <option >2023</option>
-                    <option >2024</option>
-                    <option >2025</option>
-                    <option >2026</option>
+                    <option v-for="option in yearOptions" :value="option.value">
+                        {{ option.text }}
+                    </option>
                 </select>               
                 Month:
                 <select class="months" v-model="monthInput">
                     <option disabled value ="">Select Month</option>
-                    <option >January</option>
-                    <option >February</option>
-                    <option >March</option>
-                    <option >April</option>
-                    <option >May</option>
-                    <option >June</option>
-                    <option >July</option>
-                    <option >August</option>
-                    <option >September</option>
-                    <option >October</option>
-                    <option >November</option>
-                    <option >December</option>
+                    <option v-for="option in monthOptions" :value="option.value">
+                        {{ option.text }}
+                    </option>
                 </select>
                 Income:
                 <input class="income" type="number">
