@@ -1,0 +1,747 @@
+[
+    {
+        "year": 2022,
+        "month": [
+            {
+                "name": "January",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "February",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "March",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "April",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "May",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "June",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "July",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "August",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "September",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "Oktober",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "November",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "December",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2023,
+        "month": [
+            {
+                "name": "January",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "February",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "March",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "April",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "May",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "June",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "July",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "August",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "September",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "Oktober",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "November",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "December",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2024,
+        "month": [
+            {
+                "name": "January",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "February",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "March",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "April",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "May",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "June",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "July",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "August",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "September",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "Oktober",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "November",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "December",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2025,
+        "month": [
+            {
+                "name": "January",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "February",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "March",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "April",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "May",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "June",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "July",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "August",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "September",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "Oktober",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "November",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "December",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            }
+        ]
+    },
+    {
+        "year": 2026,
+        "month": [
+            {
+                "name": "January",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "February",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "March",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "April",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "May",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "June",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "July",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "August",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "September",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "Oktober",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "November",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            },
+            {
+                "name": "December",
+                "categories": [
+                    "Rent",
+                    "Electricity",
+                    "Heat",
+                    "Groceries",
+                    "Transport",
+                    "Internet",
+                    "Other"
+                ]
+            }
+        ]
+    }
+]

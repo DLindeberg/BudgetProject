@@ -30,9 +30,8 @@ Vue.createApp({
     },
     methods:{
         saveInput(){
-            let month = monthInput;
-            let year = yearInput;
-            alert('hej')
+            let month = this.monthOptions.value;
+            alert(month)
         }
     }
 }).mount('main')
