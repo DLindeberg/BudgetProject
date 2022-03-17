@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Rent",
+        "cost": 0
+    },
+    {
+        "name": "Electricity",
+        "cost": 0
+    },
+    {
+        "name": "Heat",
+        "cost": 0
+    },
+    {
+        "name": "Groceries",
+        "cost": 0
+    },
+    {
+        "name": "Transport",
+        "cost": 0
+    },
+    {
+        "name": "Internet",
+        "cost": 0
+    },
+    {
+        "name": "Other",
+        "cost": 0
+    }
+]
