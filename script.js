@@ -12,10 +12,12 @@ Vue.createApp({
             ],
             months: [],
             categories: [],
+            income: '',
         }
     },
-    methods: {
-        saveInput() {
+    methods:{
+        saveInput(){
+
         }
     },
     mounted: async function () {
@@ -25,5 +27,6 @@ Vue.createApp({
         let json2 = await response2.json();
         this.months = json;
         this.categories = json2;
-    }
+    },
+
 }).mount('main')

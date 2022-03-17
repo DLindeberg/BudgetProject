@@ -34,15 +34,16 @@
                 </option>
             </select>
             Income:
-            <input class="income" type="number">
+            <input v-model.number ="income" type="number">
+            <p>Income: {{ income }}</p>
             <p>Selected: {{ monthInput }}</p>
             <p>Year is: {{ yearInput }}</p>
-
             <ul>
                 <li v-for="category in categories">
                     <div>{{ category.name }}</div>
-                    <div>{{ category.cost }}</div>
-                    <input class="cost" type="number" @change="category.cost++">
+                    <div>{{ category.cost }}</div>               
+                    <input v-model.number="category.cost" type="number">
+                    
                 </li>
             </ul>
             <button @click="saveInput()">Save</button>
