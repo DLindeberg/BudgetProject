@@ -40,7 +40,9 @@
 
             <ul>
                 <li v-for="category in categories">
-                    {{ category.name }} {{ category.cost }}$
+                    <div>{{ category.name }}</div>
+                    <div>{{ category.cost }}</div>
+                    <input class="cost" type="number" @change="category.cost++">
                 </li>
             </ul>
             <button @click="saveInput()">Save</button>
