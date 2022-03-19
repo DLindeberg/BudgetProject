@@ -22,7 +22,7 @@
             Year:
             <select class="year" v-model="yearInput">
                 <option disabled value="">Select Year</option>
-                <option v-for="option in data" :value="data.year">
+                <option v-for="option in data" :value="option.year">
                     {{ option.year }}
                 </option>
             </select>
