@@ -34,7 +34,7 @@
                 </option>
             </select>
             Income:
-            <input v-model.number ="income" type="number">
+            <input v-model.number ="income" id="moneyIn" type="number" @change="updateRemain">
             <p>Income: {{ income }}</p>
             <p>Selected: {{ monthInput }}</p>
             <p>Year is: {{ yearInput }}</p>
@@ -42,11 +42,12 @@
                 <li v-for="category in categories">
                     <div>{{ category.name }}</div>
                     <div>{{ category.cost }}</div>               
-                    <input v-model.number="category.cost" type="number">
+                    <input v-model.number="category.cost" id="catCost" type="number" @change="updateRemain">
                     
                 </li>
+                Remaining Income: <input type="text" id="remainingInc">
             </ul>
-            <button @click="saveInput()">Save</button>
+            <button @type="submit" v-on:click="saveInput();">Save</button>
         </section>
     </main>
 

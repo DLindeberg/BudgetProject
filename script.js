@@ -13,12 +13,22 @@ Vue.createApp({
             months: [],
             categories: [],
             income: '',
+            newCat: [],
         }
     },
     methods:{
+        //  updateRemain(){
+        //     var moneyIn = parseInt(document.getElementById("moneyIn").value);
+        //     var catCost = parseInt(document.getElementById("catCost").value);
+        //     var updateRemain = document.getElementById("remainingInc");
+        //     updateRemain.value = moneyIn - catCost;
+           
+        //    }
         saveInput(){
-
+            this.newCat.push(this.income)
+            console.log(newCat)
         }
+
     },
     mounted: async function () {
         let response = await fetch('months.json');
@@ -28,5 +38,6 @@ Vue.createApp({
         this.months = json;
         this.categories = json2;
     },
+
 
 }).mount('main')
