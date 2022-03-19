@@ -1,3 +1,6 @@
+let cat = [];
+let cost = [];
+
 Vue.createApp({
     data() {
         return {
@@ -13,11 +16,21 @@ Vue.createApp({
             months: [],
             categories: [],
             income: '',
+            savedCategories: [],
+            newCat: [],
         }
     },
     methods:{
-        saveInput(){
-
+        saveIncome(income){
+            cat.push(income)
+            console.log(cat)
+        },
+        saveCost(categories){
+            //if-sats om det redan sparats för månaden/året
+            for (let i = 0; i < categories.length; i++) {
+                cost.push(this.categories[i])
+            }
+            console.log(cost);
         }
     },
     mounted: async function () {
