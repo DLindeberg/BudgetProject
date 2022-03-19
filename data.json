@@ -5,145 +5,397 @@
             {
                 "name": "January",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "Oktober",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             }
         ]
@@ -154,145 +406,397 @@
             {
                 "name": "January",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "Oktober",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             }
         ]
@@ -303,145 +807,397 @@
             {
                 "name": "January",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "Oktober",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             }
         ]
@@ -452,145 +1208,397 @@
             {
                 "name": "January",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "Oktober",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             }
         ]
@@ -601,145 +1609,397 @@
             {
                 "name": "January",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "Oktober",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Rent",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other",
+                        "cost": 0
+                    }
                 ]
             }
         ]
