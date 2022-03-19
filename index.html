@@ -29,7 +29,7 @@
             Month:
             <select class="months" v-model="monthInput">
                 <option disabled value="">Select Month</option>
-                <option v-for="(option, index) in data" v-model:="option.month[index].name">
+                <option v-for="(option, index) in data" :value="option.month[index].name">
                     {{ option.month[index].name }}
                 </option>
             </select>
