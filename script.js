@@ -13,15 +13,9 @@ Vue.createApp({
         }
     },
     mounted: async function () {
-        let response = await fetch('months.json');
-        let response2 = await fetch('categories.json');
-        let response3 = await fetch('data.json');
+        let response = await fetch('data.json');
         let json = await response.json();
-        let json2 = await response2.json();
-        let json3 = await response3.json();
-        this.months = json;
-        this.categories = json2;
-        this.data = json3;
+        this.data = json;
     },
 
 }).mount('main')
