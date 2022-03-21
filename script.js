@@ -1,37 +1,15 @@
-let cat = [];
-let cost = [];
-
 Vue.createApp({
     data() {
         return {
-            yearInput: '',
-            monthInput: '',
-            years: [
-                { text: '2022', value: 2022 },
-                { text: '2023', value: 2023 },
-                { text: '2024', value: 2024 },
-                { text: '2025', value: 2025 },
-                { text: '2026', value: 2026 },
-            ],
-            months: [],
-            categories: [],
-            income: '',
-            savedCategories: [],
-            newCat: [],
+            yearInput: 0,
+            monthInput: 0,
             data: [],
         }
     },
-    methods:{
-        saveIncome(income){
-            cat.push(income)
-            console.log(cat)
-        },
-        saveCost(categories){
-            //if-sats om det redan sparats för månaden/året
-            for (let i = 0; i < categories.length; i++) {
-                cost.push(this.categories[i])
-            }
-            console.log(cost);
+    methods: {
+        saveCost(data, yearInput, monthInput) {
+            console.log(data)
+            console.log(monthInput)
         }
     },
     mounted: async function () {

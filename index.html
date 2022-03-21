@@ -22,34 +22,29 @@
             Year:
             <select class="year" v-model="yearInput">
                 <option disabled value="">Select Year</option>
-                <option v-for="option in data" :value="option.year">
+                <option v-for="option in data" :value="option.value">
                     {{ option.year }}
                 </option>
             </select>
             Month:
             <select class="months" v-model="monthInput">
                 <option disabled value="">Select Month</option>
-                <option v-for="(option, index) in data" :value="option.month[index].name">
-                    {{ option.month[index].name }}
+                <option v-if="data[0]" v-for="obj in data[0].month" :value="obj.value">
+                    {{ obj.name }}
                 </option>
             </select>
-            Income:
-            <input v-model.number ="income" type="number">
-            <p>Income: {{ income }}</p>
             <p>Selected: {{ monthInput }}</p>
             <p>Year is: {{ yearInput }}</p>
             <ul>
-                <li v-for="category in categories">
-                    <div>{{ category.name }}</div>
-                    <div>{{ category.cost }}</div>               
-                    <input v-model.number="category.cost" type="number">
+                <li v-if="data[yearInput]" v-for="obj in data[yearInput].month[monthInput].categories">
+                    <div>{{ obj.type }}</div>
+                    <div>{{ obj.cost }}</div>
+                    <input v-model.number="obj.cost" type="number">
                 </li>
             </ul>
-            <button @click="saveIncome(income), saveCost(categories)">Save</button>
+            <button @click="saveCost(data, yearInput, monthInput)">Save</button>
         </section>
     </main>
-
-
 
 </body>
 
