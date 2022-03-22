@@ -36,12 +36,12 @@
             <ul>
                 <li v-if="data[yearInput]" v-for="obj in data[yearInput].month[monthInput].categories">
                     <div id="inputCost">  {{ obj.type }}  </div>
-                    <input v-model.number="obj.cost" type="number" @input="check(obj)"> 
+                    <input v-model.number="obj.cost" type="number"@click="resetInput(obj)" @input="checkType(obj)"> 
                 </li>
             </ul>
             
         </section>
-        <section id="result">
+        <section id="result"> <!--<<< wat? -->
             <p v-if="data[0]">
                 Remaining income  {{ data[yearInput].month[monthInput].name }}: {{ remainingMonthlyIncome(yearInput, monthInput) }} 
 
@@ -57,7 +57,7 @@
             <p v-if="data[0]">
                 Total income for {{ data[yearInput].year }}: {{ yearlyIncome(yearInput) }} 
             </p>
-        </section id="userDisplay">
+        </section id="userDisplay"> <!--<<< wat? -->
     </main>
     <footer id="info">
         <p>

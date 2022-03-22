@@ -14,8 +14,6 @@ Vue.createApp({
                 remainingMonthlyIncome -= this.data[yearInput].month[monthInput].categories[i].cost;
             }
             return remainingMonthlyIncome;
-
-            // bugg uppstår om du lämnar den tom 
         },
         monthlyExpenses(yearInput, monthInput) {
             let monthlyExpenses = 0;
@@ -40,13 +38,17 @@ Vue.createApp({
             }
             return yearlyIncome;
         },
-        check(obj) {
+        checkType(obj) {
             if (obj.cost == "") {
                 obj.cost = null;
             }
             return obj.cost;
+        },
+        resetInput(obj){
+            if (obj.cost == 0) {
+                obj.cost = null;
+            }
         }
-
     },
 
     mounted: async function () {
