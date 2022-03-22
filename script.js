@@ -19,6 +19,8 @@ Vue.createApp({
             }
             console.log(remainingMonthlyIncome)
             return remainingMonthlyIncome;
+
+            // bugg uppstår om du lämnar den tom 
         },
         monthlyExpenses(yearInput, monthInput) {
             let monthlyExpenses = 0;
@@ -28,20 +30,20 @@ Vue.createApp({
             console.log(monthlyExpenses)
             return monthlyExpenses;
         },
-        // yearlyExpenses(yearInput, monthInput) {
-        //     let monthlyExpenses = 0;
-        //     let yearlyExpenses = 0;
-        //     for (let index = 0; i < 11; i++) {
-        //         yearlyExpenses += monthlyExpenses
-        //         for (let i = 1; i < 8; i++) {
-        //             monthlyExpenses += this.data[yearInput].month[monthInput].categories[0].cost; 
-        //         }
+        yearlyExpenses(yearInput, monthInput) {
+            let monthlyExpenses = 0;
+            let yearlyExpenses = 0;
+            for (let i = 1; i < 11; i++) {
+                yearlyExpenses += monthlyExpenses
+                for (let i = 1; i < 7; i++) {
+                    monthlyExpenses += this.data[yearInput].month[monthInput].categories[1].cost; 
+                }
                 
-        //     }
-        //     console.log(monthlyExpenses)
-        //     return monthlyExpenses;
+            }
+            
+            return monthlyExpenses;
 
-        // }
+        }
 
     },
 
