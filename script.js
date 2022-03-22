@@ -39,6 +39,12 @@ Vue.createApp({
                 yearlyIncome += this.data[yearInput].month[i].categories[0].cost;
             }
             return yearlyIncome;
+        },
+        check(obj) {
+            if (obj.cost == "") {
+                obj.cost = null;
+            }
+            return obj.cost;
         }
 
     },

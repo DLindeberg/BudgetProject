@@ -1,0 +1,62 @@
+h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 70px;
+    text-align: center;
+    font-weight: 200;
+    grid-area: a;
+}
+body{
+    background-image: url("pigog.jpg");
+    grid-template:
+    "a"
+    "b"
+    "c";
+    
+}
+main{
+    grid-area: b;
+    display:flex;
+    justify-content:space-evenly;
+    font-size: 20px;
+}
+main ul li {
+    list-style-type: none;
+    display:flex;
+    
+
+}
+#inputCost{
+    padding: 10px;
+    display: inline-block;
+    width: 100px;
+    
+}
+main ul li input{
+    width: 33%;
+    padding: 8px 10px;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+    max-width:80px;
+    margin-bottom: 10px;
+    display: inline-block;
+
+}
+
+#info{
+    grid-area: c;
+    text-align: center;
+
+}
+
+select {
+    width: 33%;
+    padding: 8px 10px;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+
+#result{
+      font-size: 25px;
+      font-family: 'Courier New', Courier, monospace;
+      
+  }

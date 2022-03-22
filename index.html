@@ -15,7 +15,7 @@
 
 <body>
     <header>
-        <h1>Budget</h1>
+        <h1>Simple Budgeting</h1>
     </header>
     <main>
         <section id="userInput">
@@ -33,33 +33,41 @@
                     {{ obj.name }}
                 </option>
             </select>
-            <p>Selected: {{ monthInput }}</p>
-            <p>Year is: {{ yearInput }}</p>
             <ul>
                 <li v-if="data[yearInput]" v-for="obj in data[yearInput].month[monthInput].categories">
-                    <div>{{ obj.type }} </div>
-
-                    <input v-model.number="obj.cost" type="number"> $
+                    <div id="inputCost">  {{ obj.type }}  </div>
+                    <input v-model.number="obj.cost" type="number" @input="check(obj)"> 
                 </li>
             </ul>
-            <button>Save</button>
+            
         </section>
-        Remaining income: 
-        <p v-if="data[0]">
-            {{ remainingMonthlyIncome(yearInput, monthInput) }} $
-           
-        </p>
-        Monthly expenses :
-        <p v-if="data[0]">
-            {{ monthlyExpenses(yearInput, monthInput) }} $
-        </p>
-        
-        <p v-if="data[0]">
-            {{ data[yearInput].year }}
-            Yearly expenses : {{ yearlyExpenses(yearInput) }} $
-            Yearly income : {{ yearlyIncome(yearInput) }} $
-        </p>
+        <section id="result">
+            <p v-if="data[0]">
+                Remaining income  {{ data[yearInput].month[monthInput].name }}: {{ remainingMonthlyIncome(yearInput, monthInput) }} 
+
+            </p>
+            
+            <p v-if="data[0]">
+                Monthly expenses  {{ data[yearInput].month[monthInput].name }}: {{ monthlyExpenses(yearInput, monthInput) }} 
+            </p>
+
+            <p v-if="data[0]">
+               Total expenses for {{ data[yearInput].year }}: {{ yearlyExpenses(yearInput) }} 
+            </p>
+            <p v-if="data[0]">
+                Total income for {{ data[yearInput].year }}: {{ yearlyIncome(yearInput) }} 
+            </p>
+        </section id="userDisplay">
     </main>
+    <footer id="info">
+        <p>
+            Written by:
+            <a href="https://github.com/DLindeberg/">Daniel Lindeberg</a>
+            &
+            <a href="https://github.com/joarwar/">Joar Warholm</a>
+
+        </p>
+    </footer>
 
 </body>
 
