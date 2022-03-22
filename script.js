@@ -8,16 +8,11 @@ Vue.createApp({
         }
     },
     methods: {
-        saveCost(data, yearInput, monthInput) {
-            console.log(data)
-            console.log(monthInput)
-        },
         remainingMonthlyIncome(yearInput, monthInput) {
             let remainingMonthlyIncome = this.data[yearInput].month[monthInput].categories[0].cost;
             for (let i = 1; i < 8; i++) {
                 remainingMonthlyIncome -= this.data[yearInput].month[monthInput].categories[i].cost;
             }
-            console.log(remainingMonthlyIncome)
             return remainingMonthlyIncome;
 
             // bugg uppstår om du lämnar den tom 
@@ -27,22 +22,23 @@ Vue.createApp({
             for (let i = 1; i < 8; i++) {
                 monthlyExpenses += this.data[yearInput].month[monthInput].categories[i].cost;
             }
-            console.log(monthlyExpenses)
             return monthlyExpenses;
         },
-        yearlyExpenses(yearInput, monthInput) {
-            let monthlyExpenses = 0;
+        yearlyExpenses(yearInput) {
             let yearlyExpenses = 0;
-            for (let i = 1; i < 11; i++) {
-                yearlyExpenses += monthlyExpenses
-                for (let i = 1; i < 7; i++) {
-                    monthlyExpenses += this.data[yearInput].month[monthInput].categories[1].cost; 
+            for (let i = 0; i < 12; i++) {
+                for (let x = 1; x < 8; x++) {
+                    yearlyExpenses += this.data[yearInput].month[i].categories[x].cost;
                 }
-                
             }
-            
-            return monthlyExpenses;
-
+            return yearlyExpenses;
+        },
+        yearlyIncome(yearInput) {
+            let yearlyIncome = 0;
+            for (let i = 0; i < 12; i++) {
+                yearlyIncome += this.data[yearInput].month[i].categories[0].cost;
+            }
+            return yearlyIncome;
         }
 
     },

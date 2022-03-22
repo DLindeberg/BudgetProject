@@ -48,17 +48,16 @@
         <p v-if="data[0]">
             {{ remainingMonthlyIncome(yearInput, monthInput) }} $
            
-
         </p>
         Monthly expenses :
         <p v-if="data[0]">
             {{ monthlyExpenses(yearInput, monthInput) }} $
         </p>
-
-
-        Yearly expenses :
+        
         <p v-if="data[0]">
-            {{ yearlyExpenses(yearInput, monthInput) }} $
+            {{ data[yearInput].year }}
+            Yearly expenses : {{ yearlyExpenses(yearInput) }} $
+            Yearly income : {{ yearlyIncome(yearInput) }} $
         </p>
     </main>
 
