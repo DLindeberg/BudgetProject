@@ -35,30 +35,48 @@
             </select>
             <ul>
                 <li v-if="data[yearInput]" v-for="obj in data[yearInput].month[monthInput].categories">
-                    <div id="inputCost">  {{ obj.type }}  </div>
-                    <input v-model.number="obj.cost" type="number"@click="resetInput(obj)" @input="checkType(obj)"> 
+                    <div id="inputCost"> {{ obj.type }} : </div>
+                    <input v-model.number="obj.cost" type="number" @click="resetInput(obj)" @input="checkType(obj)">
                 </li>
             </ul>
-            
+
         </section>
-        <section id="result"> <!--<<< wat? -->
-            <p v-if="data[0]">
-                Remaining income  {{ data[yearInput].month[monthInput].name }}: {{ remainingMonthlyIncome(yearInput, monthInput) }} 
+        <ul id="displayAll">
+            <li class="textDisplay" v-if="data[0]">
+                Remaining income {{ data[yearInput].month[monthInput].name }}:
+            </li>
 
-            </p>
+            <li class="resultDisplay" :style="(remainingMonthlyIncome(yearInput, monthInput) > 0) ? 'color: green;' : 'color: red;'" v-if="data[0]"> 
+                {{ remainingMonthlyIncome(yearInput, monthInput) }} 
+            </li>
+
+            <li class="textDisplay" v-if="data[0]">
+                Monthly expenses {{ data[yearInput].month[monthInput].name }}: 
+            </li>
+
+            <li class="resultDisplay" v-if="data[0]" :style="{ color: expensesColor}"> 
+                {{ monthlyExpenses(yearInput, monthInput) }} 
+
+            </li>
+
+            <li class="textDisplay" v-if="data[0]">
+                Total income for {{ data[yearInput].year }}:
+            </li>
+
+            <li class="resultDisplay" v-if="data[0]":style="{ color: incomeColor}"> 
+                {{ yearlyIncome(yearInput) }}
+            </li>
             
-            <p v-if="data[0]">
-                Monthly expenses  {{ data[yearInput].month[monthInput].name }}: {{ monthlyExpenses(yearInput, monthInput) }} 
-            </p>
+            <li class="textDisplay" v-if="data[0]">
+                Total expenses for {{ data[yearInput].year }}: 
+            </li>
 
-            <p v-if="data[0]">
-               Total expenses for {{ data[yearInput].year }}: {{ yearlyExpenses(yearInput) }} 
-            </p>
-            <p v-if="data[0]">
-                Total income for {{ data[yearInput].year }}: {{ yearlyIncome(yearInput) }} 
-            </p>
-        </section id="userDisplay"> <!--<<< wat? -->
+            <li class="resultDisplay" v-if="data[0]" :style="{ color: expensesColor}" > 
+                {{ yearlyExpenses(yearInput) }}
+            </li>
+        </ul>
     </main>
+
     <footer id="info">
         <p>
             Written by:

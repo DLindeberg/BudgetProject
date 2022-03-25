@@ -4,7 +4,8 @@ Vue.createApp({
             yearInput: 0,
             monthInput: 0,
             data: [],
-            
+            expensesColor: 'red',
+            incomeColor: 'green'
         }
     },
     methods: {
@@ -50,6 +51,7 @@ Vue.createApp({
             }
         }
     },
+
 
     mounted: async function () {
         let response = await fetch('data.json');
