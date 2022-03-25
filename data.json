@@ -1,745 +1,2310 @@
 [
     {
         "year": 2022,
+        "value": 0,
         "month": [
             {
                 "name": "January",
+                "value": 0,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
+                "value": 1,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
+                "value": 2,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
+                "value": 3,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
+                "value": 4,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
+                "value": 5,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
+                "value": 6,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
+                "value": 7,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
+                "value": 8,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
-                "name": "Oktober",
+                "name": "October",
+                "value": 9,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
+                "value": 10,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
+                "value": 11,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             }
         ]
     },
     {
         "year": 2023,
+        "value": 1,
         "month": [
             {
                 "name": "January",
+                "value": 0,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
+                "value": 1,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
+                "value": 2,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
+                "value": 3,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
+                "value": 4,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
+                "value": 5,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
+                "value": 6,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
+                "value": 7,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
+                "value": 8,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
-                "name": "Oktober",
+                "name": "October",
+                "value": 9,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
+                "value": 10,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
+                "value": 11,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             }
         ]
     },
     {
         "year": 2024,
+        "value": 2,
         "month": [
             {
                 "name": "January",
+                "value": 0,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
+                "value": 1,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
+                "value": 2,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
+                "value": 3,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
+                "value": 4,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
+                "value": 5,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
+                "value": 6,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
+                "value": 7,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
+                "value": 8,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
-                "name": "Oktober",
+                "name": "October",
+                "value": 9,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
+                "value": 10,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
+                "value": 11,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             }
         ]
     },
     {
         "year": 2025,
+        "value": 3,
         "month": [
             {
                 "name": "January",
+                "value": 0,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
+                "value": 1,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
+                "value": 2,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
+                "value": 3,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
+                "value": 4,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
+                "value": 5,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
+                "value": 6,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
+                "value": 7,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
+                "value": 8,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
-                "name": "Oktober",
+                "name": "October",
+                "value": 9,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
+                "value": 10,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
+                "value": 11,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             }
         ]
     },
     {
         "year": 2026,
+        "value": 4,
         "month": [
             {
                 "name": "January",
+                "value": 0,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "February",
+                "value": 1,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "March",
+                "value": 2,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "April",
+                "value": 3,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "May",
+                "value": 4,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "June",
+                "value": 5,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "July",
+                "value": 6,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "August",
+                "value": 7,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "September",
+                "value": 8,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
-                "name": "Oktober",
+                "name": "October",
+                "value": 9,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "November",
+                "value": 10,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             },
             {
                 "name": "December",
+                "value": 11,
                 "categories": [
-                    "Rent",
-                    "Electricity",
-                    "Heat",
-                    "Groceries",
-                    "Transport",
-                    "Internet",
-                    "Other"
+                    {
+                        "type": "Income 💰",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Rent 🏠",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Electricity ⚡",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Heat 🔥",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Groceries 🛍️",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Transport 🚋",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Internet 📶",
+                        "cost": 0
+                    },
+                    {
+                        "type": "Other 🌍",
+                        "cost": 0
+                    }
                 ]
             }
         ]

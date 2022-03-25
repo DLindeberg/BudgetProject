@@ -1,45 +1,62 @@
-let cat = [];
-let cost = [];
-
 Vue.createApp({
     data() {
         return {
-            yearInput: '',
-            monthInput: '',
-            years: [
-                { text: '2022', value: 2022 },
-                { text: '2023', value: 2023 },
-                { text: '2024', value: 2024 },
-                { text: '2025', value: 2025 },
-                { text: '2026', value: 2026 },
-            ],
-            months: [],
-            categories: [],
-            income: '',
-            savedCategories: [],
-            newCat: [],
+            yearInput: 0,
+            monthInput: 0,
+            data: [],
+            expensesColor: 'red',
+            incomeColor: 'green'
         }
     },
-    methods:{
-        saveIncome(income){
-            cat.push(income)
-            console.log(cat)
-        },
-        saveCost(categories){
-            //if-sats om det redan sparats för månaden/året
-            for (let i = 0; i < categories.length; i++) {
-                cost.push(this.categories[i])
+    methods: {
+        remainingMonthlyIncome(yearInput, monthInput) {
+            let remainingMonthlyIncome = this.data[yearInput].month[monthInput].categories[0].cost;
+            for (let i = 1; i < 8; i++) {
+                remainingMonthlyIncome -= this.data[yearInput].month[monthInput].categories[i].cost;
             }
-            console.log(cost);
+            return remainingMonthlyIncome;
+        },
+        monthlyExpenses(yearInput, monthInput) {
+            let monthlyExpenses = 0;
+            for (let i = 1; i < 8; i++) {
+                monthlyExpenses += this.data[yearInput].month[monthInput].categories[i].cost;
+            }
+            return monthlyExpenses;
+        },
+        yearlyExpenses(yearInput) {
+            let yearlyExpenses = 0;
+            for (let i = 0; i < 12; i++) {
+                for (let x = 1; x < 8; x++) {
+                    yearlyExpenses += this.data[yearInput].month[i].categories[x].cost;
+                }
+            }
+            return yearlyExpenses;
+        },
+        yearlyIncome(yearInput) {
+            let yearlyIncome = 0;
+            for (let i = 0; i < 12; i++) {
+                yearlyIncome += this.data[yearInput].month[i].categories[0].cost;
+            }
+            return yearlyIncome;
+        },
+        checkType(obj) {
+            if (obj.cost == "") {
+                obj.cost = null;
+            }
+            return obj.cost;
+        },
+        resetInput(obj){
+            if (obj.cost == 0) {
+                obj.cost = null;
+            }
         }
     },
+
+
     mounted: async function () {
-        let response = await fetch('months.json');
-        let response2 = await fetch('categories.json');
+        let response = await fetch('data.json');
         let json = await response.json();
-        let json2 = await response2.json();
-        this.months = json;
-        this.categories = json2;
+        this.data = json;
     },
 
 }).mount('main')
