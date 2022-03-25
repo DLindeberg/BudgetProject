@@ -49,10 +49,14 @@ Vue.createApp({
             if (obj.cost == 0) {
                 obj.cost = null;
             }
+        },
+        remainingMoneyYear(yearInput){
+            let add = this.yearlyIncome(yearInput)
+            let subtract = this.yearlyExpenses(yearInput)
+            let sumOf = add - subtract;
+            return sumOf;
         }
     },
-
-
     mounted: async function () {
         let response = await fetch('data.json');
         let json = await response.json();

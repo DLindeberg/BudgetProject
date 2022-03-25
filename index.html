@@ -75,6 +75,9 @@
             <li class="resultDisplay" id="displayEight" v-if="data[0]" :style="{ color: expensesColor}">
                 {{ yearlyExpenses(yearInput) }}
             </li>
+            <li class="resultDisplay" id="displayNine" v-if="data[0]" :style="{ color: expensesColor}">
+                {{remainingMoneyYear(yearInput)}}
+            </li>
         </ul>
     </main>
 
