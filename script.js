@@ -45,7 +45,7 @@ Vue.createApp({
             }
             return obj.cost;
         },
-        resetInput(obj){
+        resetInput(obj) {
             if (obj.cost == 0) {
                 obj.cost = null;
             }
