@@ -63,6 +63,9 @@ select {
 }
 #displayAll{
     padding: 30px;
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    width:400px;
 }
 @media screen and (max-width: 1000px) {
     h1{
@@ -70,22 +73,18 @@ select {
     }
   }
 @media screen and (max-width: 830px) {
-
-
     .textDisplay{
         max-width: 300px;
         font-size: 18px;
     }
     .resultDisplay{
         max-width: 400px;  
-        font-size:18px
-        
+        font-size:18px   
     }
     body{
         font-size: 20px;
         justify-content: flex-start;
     }
-
     h1{
         font-size: 40px;
     }
@@ -101,7 +100,6 @@ select {
         width: 100px;
     }
 }
-
 @media screen and (max-width: 400px){
     #info{
         font-size: 15px;
